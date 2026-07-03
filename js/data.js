@@ -1212,267 +1212,35 @@ window.NCR_DATA = {
       ]
     }
   ],
-  "documents": [
-    {
-      "id": "doc-b01",
-      "academy": "business",
-      "title": "Communication digitale - support participant",
-      "type": "PDF",
-      "category": "Formation",
-      "course": "b01",
-      "description": "Document prêt à l'emploi : Communication digitale - support participant.",
-      "file": "docs/communication-digitale-support.pdf"
-    },
-    {
-      "id": "doc-b02",
-      "academy": "business",
-      "title": "Bureautique - guide pratique",
-      "type": "PDF",
-      "category": "Bureautique",
-      "course": "b02",
-      "description": "Document prêt à l'emploi : Bureautique - guide pratique.",
-      "file": "docs/bureautique-guide-pratique.pdf"
-    },
-    {
-      "id": "doc-b03",
-      "academy": "business",
-      "title": "Gestion des litiges - méthode terrain",
-      "type": "PDF",
-      "category": "Litiges",
-      "course": "b03",
-      "description": "Document prêt à l'emploi : Gestion des litiges - méthode terrain.",
-      "file": "docs/gestion-litiges-methode-terrain.pdf"
-    },
-    {
-      "id": "doc-b04",
-      "academy": "business",
-      "title": "Community management - kit éditorial",
-      "type": "PDF",
-      "category": "Communication",
-      "course": "b04",
-      "description": "Document prêt à l'emploi : Community management - kit éditorial.",
-      "file": "docs/community-management-kit-editorial.pdf"
-    },
-    {
-      "id": "doc-b05",
-      "academy": "business",
-      "title": "Réseaux sociaux - calendrier 30 jours",
-      "type": "PDF",
-      "category": "Communication",
-      "course": "b05",
-      "description": "Document prêt à l'emploi : Réseaux sociaux - calendrier 30 jours.",
-      "file": "docs/reseaux-sociaux-calendrier-30-jours.pdf"
-    },
-    {
-      "id": "doc-b06",
-      "academy": "business",
-      "title": "Assistance informatique - fiche diagnostic",
-      "type": "PDF",
-      "category": "Support",
-      "course": "b06",
-      "description": "Document prêt à l'emploi : Assistance informatique - fiche diagnostic.",
-      "file": "docs/assistance-informatique-fiche-diagnostic.pdf"
-    },
-    {
-      "id": "doc-b07",
-      "academy": "business",
-      "title": "Modèles mails professionnels",
-      "type": "PDF",
-      "category": "Communication",
-      "course": "b01",
-      "description": "Document prêt à l'emploi : Modèles mails professionnels.",
-      "file": "docs/modeles-mails-professionnels.pdf"
-    },
-    {
-      "id": "doc-b08",
-      "academy": "business",
-      "title": "Grille d'évaluation litige client",
-      "type": "PDF",
-      "category": "Évaluation",
-      "course": "b03",
-      "description": "Document prêt à l'emploi : Grille d'évaluation litige client.",
-      "file": "docs/grille-evaluation-litige-client.pdf"
-    },
-    {
-      "id": "doc-a01",
-      "academy": "ai",
-      "title": "Cahier participant IA Academy",
-      "type": "PDF",
-      "category": "Formation",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Cahier participant IA Academy.",
-      "file": "docs/cahier-participant-ia-academy.pdf"
-    },
-    {
-      "id": "doc-a02",
-      "academy": "ai",
-      "title": "Fiche mémo N.C.R AI",
-      "type": "PDF",
-      "category": "Méthode",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Fiche mémo N.C.R AI.",
-      "file": "docs/fiche-memo-ncr-ai.pdf"
-    },
-    {
-      "id": "doc-a03",
-      "academy": "ai",
-      "title": "Charte usage IA entreprise",
-      "type": "PDF",
-      "category": "Sécurité",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Charte usage IA entreprise.",
-      "file": "docs/charte-usage-ia-entreprise.pdf"
-    },
-    {
-      "id": "doc-a04",
-      "academy": "ai",
-      "title": "Plan d'intégration IA 90 jours",
-      "type": "PDF",
-      "category": "Transformation",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Plan d'intégration IA 90 jours.",
-      "file": "docs/plan-integration-ia-90-jours.pdf"
-    },
-    {
-      "id": "doc-a05",
-      "academy": "ai",
-      "title": "Bibliothèque prompts N.C.R AI",
-      "type": "PDF",
-      "category": "Prompts",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Bibliothèque prompts N.C.R AI.",
-      "file": "docs/bibliotheque-prompts-ncr-ai.pdf"
-    },
-    {
-      "id": "doc-a06",
-      "academy": "ai",
-      "title": "Grille diagnostic IA",
-      "type": "PDF",
-      "category": "Évaluation",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Grille diagnostic IA.",
-      "file": "docs/grille-diagnostic-ia.pdf"
-    },
-    {
-      "id": "doc-a07",
-      "academy": "ai",
-      "title": "Kit sécurité IA",
-      "type": "PDF",
-      "category": "Sécurité",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Kit sécurité IA.",
-      "file": "docs/kit-securite-ia.pdf"
-    },
-    {
-      "id": "doc-a08",
-      "academy": "ai",
-      "title": "Modèle certificat interne IA",
-      "type": "PDF",
-      "category": "Certification",
-      "course": "a06",
-      "description": "Document prêt à l'emploi : Modèle certificat interne IA.",
-      "file": "docs/modele-certificat-interne-ia.pdf"
-    },
-    {
-      "id": "doc-s01",
-      "academy": "sst",
-      "title": "Fiche Protéger SST",
-      "type": "PDF",
-      "category": "SST",
-      "course": "s01",
-      "description": "Document prêt à l'emploi : Fiche Protéger SST.",
-      "file": "docs/fiche-proteger-sst.pdf"
-    },
-    {
-      "id": "doc-s02",
-      "academy": "sst",
-      "title": "Fiche Examiner SST",
-      "type": "PDF",
-      "category": "SST",
-      "course": "s01",
-      "description": "Document prêt à l'emploi : Fiche Examiner SST.",
-      "file": "docs/fiche-examiner-sst.pdf"
-    },
-    {
-      "id": "doc-s03",
-      "academy": "sst",
-      "title": "Fiche Alerter SST",
-      "type": "PDF",
-      "category": "SST",
-      "course": "s04",
-      "description": "Document prêt à l'emploi : Fiche Alerter SST.",
-      "file": "docs/fiche-alerter-sst.pdf"
-    },
-    {
-      "id": "doc-s04",
-      "academy": "sst",
-      "title": "Fiche Étouffement",
-      "type": "PDF",
-      "category": "Secourir",
-      "course": "s02",
-      "description": "Document prêt à l'emploi : Fiche Étouffement.",
-      "file": "docs/fiche-etouffement-sst.pdf"
-    },
-    {
-      "id": "doc-s05",
-      "academy": "sst",
-      "title": "Fiche Brûlures",
-      "type": "PDF",
-      "category": "Secourir",
-      "course": "s02",
-      "description": "Document prêt à l'emploi : Fiche Brûlures.",
-      "file": "docs/fiche-brulures-sst.pdf"
-    },
-    {
-      "id": "doc-s06",
-      "academy": "sst",
-      "title": "Fiche Plaies",
-      "type": "PDF",
-      "category": "Secourir",
-      "course": "s02",
-      "description": "Document prêt à l'emploi : Fiche Plaies.",
-      "file": "docs/fiche-plaies-sst.pdf"
-    },
-    {
-      "id": "doc-s07",
-      "academy": "sst",
-      "title": "Fiche Traumatismes",
-      "type": "PDF",
-      "category": "Secourir",
-      "course": "s02",
-      "description": "Document prêt à l'emploi : Fiche Traumatismes.",
-      "file": "docs/fiche-traumatismes-sst.pdf"
-    },
-    {
-      "id": "doc-s08",
-      "academy": "sst",
-      "title": "Pack cas concrets SST",
-      "type": "PDF",
-      "category": "Évaluation",
-      "course": "s03",
-      "description": "Document prêt à l'emploi : Pack cas concrets SST.",
-      "file": "docs/pack-cas-concrets-sst.pdf"
-    },
-    {
-      "id": "doc-s09",
-      "academy": "sst",
-      "title": "Grille évaluation cas concret SST",
-      "type": "PDF",
-      "category": "Évaluation",
-      "course": "s03",
-      "description": "Document prêt à l'emploi : Grille évaluation cas concret SST.",
-      "file": "docs/grille-evaluation-cas-concret-sst.pdf"
-    },
-    {
-      "id": "doc-s10",
-      "academy": "sst",
-      "title": "Simulateur d'alerte - mémo",
-      "type": "PDF",
-      "category": "Alerte",
-      "course": "s04",
-      "description": "Document prêt à l'emploi : Simulateur d'alerte - mémo.",
-      "file": "docs/simulateur-alerte-memo.pdf"
-    }
+  alter table profiles 
+add column if not exists academy_access jsonb default '["business","ai","sst"]';
+
+insert into profiles (
+  id,
+  full_name,
+  role,
+  job,
+  company,
+  cohort_id,
+  academy_access
+)
+select
+  id,
+  'Nacer - Admin N.C.R',
+  'admin',
+  'Formateur N.C.R',
+  'N.C.R Solutions',
+  'admin',
+  '["business","ai","sst"]'::jsonb
+from auth.users
+where email = 'ncr-formations@outlook.fr'
+on conflict (id) do update set
+  full_name = excluded.full_name,
+  role = excluded.role,
+  job = excluded.job,
+  company = excluded.company,
+  cohort_id = excluded.cohort_id,
+  academy_access = excluded.academy_access;
   ],
   "prompts": [
     {
