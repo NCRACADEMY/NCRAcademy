@@ -1,0 +1,1 @@
+window.NCR_LOCAL={prefix:"ncr_v6_",get(k,f=null){try{const v=localStorage.getItem(this.prefix+k);return v?JSON.parse(v):f}catch{return f}},set(k,v){localStorage.setItem(this.prefix+k,JSON.stringify(v));return v},remove(k){localStorage.removeItem(this.prefix+k)},reset(){Object.keys(localStorage).filter(k=>k.startsWith(this.prefix)).forEach(k=>localStorage.removeItem(k))}};

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "p001",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Intermédiaire",
+    "title": "Créer une séquence pédagogique - modèle 001",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p002",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Avancé",
+    "title": "Créer un cas concret SST - modèle 002",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p003",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Débutant",
+    "title": "Créer une procédure interne - modèle 003",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p004",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Intermédiaire",
+    "title": "Répondre à une objection prix - modèle 004",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p005",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Avancé",
+    "title": "Post LinkedIn - modèle 005",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p006",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Débutant",
+    "title": "Compte rendu - modèle 006",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p007",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Intermédiaire",
+    "title": "Désamorcer un client difficile - modèle 007",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p008",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Avancé",
+    "title": "Créer une grille d'évaluation - modèle 008",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p009",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Débutant",
+    "title": "Anonymiser un contenu - modèle 009",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p010",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Intermédiaire",
+    "title": "Calendrier éditorial - modèle 010",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p011",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Avancé",
+    "title": "Créer une séquence pédagogique - modèle 011",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p012",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Débutant",
+    "title": "Créer un cas concret SST - modèle 012",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p013",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Intermédiaire",
+    "title": "Créer une procédure interne - modèle 013",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p014",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Avancé",
+    "title": "Répondre à une objection prix - modèle 014",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p015",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Débutant",
+    "title": "Post LinkedIn - modèle 015",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p016",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Intermédiaire",
+    "title": "Compte rendu - modèle 016",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p017",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Avancé",
+    "title": "Désamorcer un client difficile - modèle 017",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p018",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Débutant",
+    "title": "Créer une grille d'évaluation - modèle 018",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p019",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Intermédiaire",
+    "title": "Anonymiser un contenu - modèle 019",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p020",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Avancé",
+    "title": "Calendrier éditorial - modèle 020",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p021",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Débutant",
+    "title": "Créer une séquence pédagogique - modèle 021",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p022",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Intermédiaire",
+    "title": "Créer un cas concret SST - modèle 022",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p023",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Avancé",
+    "title": "Créer une procédure interne - modèle 023",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p024",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Débutant",
+    "title": "Répondre à une objection prix - modèle 024",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p025",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Intermédiaire",
+    "title": "Post LinkedIn - modèle 025",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p026",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Avancé",
+    "title": "Compte rendu - modèle 026",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p027",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Débutant",
+    "title": "Désamorcer un client difficile - modèle 027",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p028",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Intermédiaire",
+    "title": "Créer une grille d'évaluation - modèle 028",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p029",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Avancé",
+    "title": "Anonymiser un contenu - modèle 029",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p030",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Débutant",
+    "title": "Calendrier éditorial - modèle 030",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p031",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Intermédiaire",
+    "title": "Créer une séquence pédagogique - modèle 031",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p032",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Avancé",
+    "title": "Créer un cas concret SST - modèle 032",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p033",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Débutant",
+    "title": "Créer une procédure interne - modèle 033",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p034",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Intermédiaire",
+    "title": "Répondre à une objection prix - modèle 034",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p035",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Avancé",
+    "title": "Post LinkedIn - modèle 035",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p036",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Débutant",
+    "title": "Compte rendu - modèle 036",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p037",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Intermédiaire",
+    "title": "Désamorcer un client difficile - modèle 037",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p038",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Avancé",
+    "title": "Créer une grille d'évaluation - modèle 038",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p039",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Débutant",
+    "title": "Anonymiser un contenu - modèle 039",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p040",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Intermédiaire",
+    "title": "Calendrier éditorial - modèle 040",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p041",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Avancé",
+    "title": "Créer une séquence pédagogique - modèle 041",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p042",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Débutant",
+    "title": "Créer un cas concret SST - modèle 042",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p043",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Intermédiaire",
+    "title": "Créer une procédure interne - modèle 043",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p044",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Avancé",
+    "title": "Répondre à une objection prix - modèle 044",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p045",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Débutant",
+    "title": "Post LinkedIn - modèle 045",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p046",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Intermédiaire",
+    "title": "Compte rendu - modèle 046",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p047",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Avancé",
+    "title": "Désamorcer un client difficile - modèle 047",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p048",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Débutant",
+    "title": "Créer une grille d'évaluation - modèle 048",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p049",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Intermédiaire",
+    "title": "Anonymiser un contenu - modèle 049",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p050",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Avancé",
+    "title": "Calendrier éditorial - modèle 050",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p051",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Débutant",
+    "title": "Créer une séquence pédagogique - modèle 051",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p052",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Intermédiaire",
+    "title": "Créer un cas concret SST - modèle 052",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p053",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Avancé",
+    "title": "Créer une procédure interne - modèle 053",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p054",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Débutant",
+    "title": "Répondre à une objection prix - modèle 054",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p055",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Intermédiaire",
+    "title": "Post LinkedIn - modèle 055",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p056",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Avancé",
+    "title": "Compte rendu - modèle 056",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p057",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Débutant",
+    "title": "Désamorcer un client difficile - modèle 057",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p058",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Intermédiaire",
+    "title": "Créer une grille d'évaluation - modèle 058",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p059",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Avancé",
+    "title": "Anonymiser un contenu - modèle 059",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p060",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Débutant",
+    "title": "Calendrier éditorial - modèle 060",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p061",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Intermédiaire",
+    "title": "Créer une séquence pédagogique - modèle 061",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p062",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Avancé",
+    "title": "Créer un cas concret SST - modèle 062",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p063",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Débutant",
+    "title": "Créer une procédure interne - modèle 063",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p064",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Intermédiaire",
+    "title": "Répondre à une objection prix - modèle 064",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p065",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Avancé",
+    "title": "Post LinkedIn - modèle 065",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p066",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Débutant",
+    "title": "Compte rendu - modèle 066",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p067",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Intermédiaire",
+    "title": "Désamorcer un client difficile - modèle 067",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p068",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Avancé",
+    "title": "Créer une grille d'évaluation - modèle 068",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p069",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Débutant",
+    "title": "Anonymiser un contenu - modèle 069",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p070",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Intermédiaire",
+    "title": "Calendrier éditorial - modèle 070",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p071",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Avancé",
+    "title": "Créer une séquence pédagogique - modèle 071",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p072",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Débutant",
+    "title": "Créer un cas concret SST - modèle 072",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p073",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Intermédiaire",
+    "title": "Créer une procédure interne - modèle 073",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p074",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Avancé",
+    "title": "Répondre à une objection prix - modèle 074",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p075",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Débutant",
+    "title": "Post LinkedIn - modèle 075",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p076",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Intermédiaire",
+    "title": "Compte rendu - modèle 076",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p077",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Avancé",
+    "title": "Désamorcer un client difficile - modèle 077",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p078",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Débutant",
+    "title": "Créer une grille d'évaluation - modèle 078",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p079",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Intermédiaire",
+    "title": "Anonymiser un contenu - modèle 079",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p080",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Avancé",
+    "title": "Calendrier éditorial - modèle 080",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p081",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Débutant",
+    "title": "Créer une séquence pédagogique - modèle 081",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p082",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Intermédiaire",
+    "title": "Créer un cas concret SST - modèle 082",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p083",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Avancé",
+    "title": "Créer une procédure interne - modèle 083",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p084",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Débutant",
+    "title": "Répondre à une objection prix - modèle 084",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p085",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Intermédiaire",
+    "title": "Post LinkedIn - modèle 085",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p086",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Avancé",
+    "title": "Compte rendu - modèle 086",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p087",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Débutant",
+    "title": "Désamorcer un client difficile - modèle 087",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p088",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Intermédiaire",
+    "title": "Créer une grille d'évaluation - modèle 088",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p089",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Avancé",
+    "title": "Anonymiser un contenu - modèle 089",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p090",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Débutant",
+    "title": "Calendrier éditorial - modèle 090",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p091",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Intermédiaire",
+    "title": "Créer une séquence pédagogique - modèle 091",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p092",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Avancé",
+    "title": "Créer un cas concret SST - modèle 092",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p093",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Débutant",
+    "title": "Créer une procédure interne - modèle 093",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p094",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Intermédiaire",
+    "title": "Répondre à une objection prix - modèle 094",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p095",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Avancé",
+    "title": "Post LinkedIn - modèle 095",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p096",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Débutant",
+    "title": "Compte rendu - modèle 096",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p097",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Intermédiaire",
+    "title": "Désamorcer un client difficile - modèle 097",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p098",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Avancé",
+    "title": "Créer une grille d'évaluation - modèle 098",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p099",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Débutant",
+    "title": "Anonymiser un contenu - modèle 099",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p100",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Intermédiaire",
+    "title": "Calendrier éditorial - modèle 100",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p101",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Avancé",
+    "title": "Créer une séquence pédagogique - modèle 101",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p102",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Débutant",
+    "title": "Créer un cas concret SST - modèle 102",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p103",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Intermédiaire",
+    "title": "Créer une procédure interne - modèle 103",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p104",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Avancé",
+    "title": "Répondre à une objection prix - modèle 104",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p105",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Débutant",
+    "title": "Post LinkedIn - modèle 105",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p106",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Intermédiaire",
+    "title": "Compte rendu - modèle 106",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p107",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Avancé",
+    "title": "Désamorcer un client difficile - modèle 107",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p108",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Débutant",
+    "title": "Créer une grille d'évaluation - modèle 108",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p109",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Intermédiaire",
+    "title": "Anonymiser un contenu - modèle 109",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p110",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Avancé",
+    "title": "Calendrier éditorial - modèle 110",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p111",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Débutant",
+    "title": "Créer une séquence pédagogique - modèle 111",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p112",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Intermédiaire",
+    "title": "Créer un cas concret SST - modèle 112",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p113",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Avancé",
+    "title": "Créer une procédure interne - modèle 113",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p114",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Débutant",
+    "title": "Répondre à une objection prix - modèle 114",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p115",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Intermédiaire",
+    "title": "Post LinkedIn - modèle 115",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p116",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Avancé",
+    "title": "Compte rendu - modèle 116",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p117",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Débutant",
+    "title": "Désamorcer un client difficile - modèle 117",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p118",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Intermédiaire",
+    "title": "Créer une grille d'évaluation - modèle 118",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p119",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Avancé",
+    "title": "Anonymiser un contenu - modèle 119",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p120",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Débutant",
+    "title": "Calendrier éditorial - modèle 120",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p121",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Intermédiaire",
+    "title": "Créer une séquence pédagogique - modèle 121",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p122",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Avancé",
+    "title": "Créer un cas concret SST - modèle 122",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p123",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Débutant",
+    "title": "Créer une procédure interne - modèle 123",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p124",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Intermédiaire",
+    "title": "Répondre à une objection prix - modèle 124",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p125",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Avancé",
+    "title": "Post LinkedIn - modèle 125",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p126",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Débutant",
+    "title": "Compte rendu - modèle 126",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p127",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Intermédiaire",
+    "title": "Désamorcer un client difficile - modèle 127",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p128",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Avancé",
+    "title": "Créer une grille d'évaluation - modèle 128",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p129",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Débutant",
+    "title": "Anonymiser un contenu - modèle 129",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p130",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Intermédiaire",
+    "title": "Calendrier éditorial - modèle 130",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p131",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Avancé",
+    "title": "Créer une séquence pédagogique - modèle 131",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p132",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Débutant",
+    "title": "Créer un cas concret SST - modèle 132",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p133",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Intermédiaire",
+    "title": "Créer une procédure interne - modèle 133",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p134",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Avancé",
+    "title": "Répondre à une objection prix - modèle 134",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p135",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Débutant",
+    "title": "Post LinkedIn - modèle 135",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p136",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Intermédiaire",
+    "title": "Compte rendu - modèle 136",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p137",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Avancé",
+    "title": "Désamorcer un client difficile - modèle 137",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p138",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Débutant",
+    "title": "Créer une grille d'évaluation - modèle 138",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p139",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Intermédiaire",
+    "title": "Anonymiser un contenu - modèle 139",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p140",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Avancé",
+    "title": "Calendrier éditorial - modèle 140",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p141",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer une séquence pédagogique",
+    "level": "Débutant",
+    "title": "Créer une séquence pédagogique - modèle 141",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un ingénieur pédagogique. Crée une séquence sur [thème] pour [public], durée [durée]. Donne objectifs, phases, consignes, activité, critères et débrief.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p142",
+    "academy": "ai",
+    "role": "Formateur",
+    "objective": "Créer un cas concret SST",
+    "level": "Intermédiaire",
+    "title": "Créer un cas concret SST - modèle 142",
+    "description": "Prompt professionnel prêt à adapter pour formateur.",
+    "text": "Agis comme un formateur SST. Crée un cas concret sur [thème] avec scénario, consignes stagiaire, attendus, critères de réussite et grille d'évaluation.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p143",
+    "academy": "ai",
+    "role": "Dirigeant",
+    "objective": "Créer une procédure interne",
+    "level": "Avancé",
+    "title": "Créer une procédure interne - modèle 143",
+    "description": "Prompt professionnel prêt à adapter pour dirigeant.",
+    "text": "Crée une procédure pour [processus] : objectif, périmètre, responsabilités, étapes, contrôles, erreurs fréquentes et indicateurs.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p144",
+    "academy": "business",
+    "role": "Commercial",
+    "objective": "Répondre à une objection prix",
+    "level": "Débutant",
+    "title": "Répondre à une objection prix - modèle 144",
+    "description": "Prompt professionnel prêt à adapter pour commercial.",
+    "text": "Rédige une réponse à l'objection prix pour [offre] avec valeur, preuves, bénéfices et alternative.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p145",
+    "academy": "business",
+    "role": "Communication",
+    "objective": "Post LinkedIn",
+    "level": "Intermédiaire",
+    "title": "Post LinkedIn - modèle 145",
+    "description": "Prompt professionnel prêt à adapter pour communication.",
+    "text": "Rédige un post LinkedIn sur [sujet] : accroche, contexte, conseils, exemple, conclusion, question finale.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p146",
+    "academy": "business",
+    "role": "Bureautique",
+    "objective": "Compte rendu",
+    "level": "Avancé",
+    "title": "Compte rendu - modèle 146",
+    "description": "Prompt professionnel prêt à adapter pour bureautique.",
+    "text": "Transforme ces notes en compte rendu structuré : décisions, actions, responsables, échéances et points de vigilance.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p147",
+    "academy": "business",
+    "role": "Litiges",
+    "objective": "Désamorcer un client difficile",
+    "level": "Débutant",
+    "title": "Désamorcer un client difficile - modèle 147",
+    "description": "Prompt professionnel prêt à adapter pour litiges.",
+    "text": "Propose une réponse professionnelle à [message client] avec empathie, reformulation, solution et traçabilité.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p148",
+    "academy": "business",
+    "role": "SST",
+    "objective": "Créer une grille d'évaluation",
+    "level": "Intermédiaire",
+    "title": "Créer une grille d'évaluation - modèle 148",
+    "description": "Prompt professionnel prêt à adapter pour sst.",
+    "text": "Crée une grille d'évaluation SST pour [thème] avec critères observables, niveaux et erreurs critiques.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p149",
+    "academy": "ai",
+    "role": "Sécurité IA",
+    "objective": "Anonymiser un contenu",
+    "level": "Avancé",
+    "title": "Anonymiser un contenu - modèle 149",
+    "description": "Prompt professionnel prêt à adapter pour sécurité ia.",
+    "text": "Anonymise [contenu] en retirant noms, coordonnées, données sensibles et éléments identifiants.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  },
+  {
+    "id": "p150",
+    "academy": "business",
+    "role": "Community Management",
+    "objective": "Calendrier éditorial",
+    "level": "Débutant",
+    "title": "Calendrier éditorial - modèle 150",
+    "description": "Prompt professionnel prêt à adapter pour community management.",
+    "text": "Crée 30 idées de contenus pour [activité] avec angle, format, objectif et appel à l'action.\n\nContraintes : ton professionnel, format clair, exemples concrets, checklist finale."
+  }
+]
