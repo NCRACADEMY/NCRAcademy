@@ -20,7 +20,7 @@
 */
 
 window.NCR_CONFIG = {
-  APP_MODE: "DEMO_LOCAL", // "DEMO_LOCAL" ou "SUPABASE"
+  APP_MODE: "SUPABASE",
 
   ACADEMY_NAME: "N.C.R AI Academy",
   PRODUCT_NAME: "N.C.R AI Academy V3 Connected",
@@ -30,8 +30,8 @@ window.NCR_CONFIG = {
   SIRET: "98862540600018",
   ADDRESS: "191 Impasse Missiri, 83600 Fréjus",
 
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: "",
+  SUPABASE_URL: "https://gepylkbfarwafqhkjxdz.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_82fMQ6tVOllAq4KaRSApoA_9Ap-r16u",
 
   CERTIFICATION_PASS_SCORE: 80,
   DEFAULT_THEME: "dark"
