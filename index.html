@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>N.C.R AI Academy V3 | Espace membre connecté</title>
+  <meta name="description" content="N.C.R AI Academy V3 : portail membre premium connecté, prêt pour Supabase, progression, certification, diagnostic IA, documents et espace formateur." />
+  <meta name="theme-color" content="#000000" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <noscript>Cette application nécessite JavaScript.</noscript>
+
+  <div id="app"></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <!-- Supabase CDN : utilisé uniquement si APP_MODE = "SUPABASE" dans config.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+  <script src="config.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/localStore.js"></script>
+  <script src="js/supabaseService.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
